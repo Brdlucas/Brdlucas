@@ -1,5 +1,5 @@
 ### Hi there 👋
-![php](https://user-images.githubusercontent.com/114564514/233624124-b5807322-232d-4e08-8d86-402bfe6b82bf.svg)
+
 <!--
 **Brdlucas/Brdlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
