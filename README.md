@@ -1,5 +1,7 @@
 ### Hi there 👋
-![php-1-logo-svgrepo-com](https://user-images.githubusercontent.com/114564514/233624898-e786288b-123a-4d75-b910-59582abe5ed5.svg)
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="100px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="100px">
 <!--
 **Brdlucas/Brdlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
