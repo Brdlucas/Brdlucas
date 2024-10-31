@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **three.js**
 
-- 👨‍💻 All of my projects are available at [portfolio-puce-eight-96.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-puce-eight-96.vercel.app](https://portfolio-puce-eight-96.vercel.app/)
 
 - 💬 Ask me about **next.js / react.js**
 
