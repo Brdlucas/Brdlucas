@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://portfolio-d41e219k5-brdlucas-projects.vercel.app/)
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **reactjs**
 
 - 👨‍💻 All of my projects are available at [portfolio-puce-eight-96.vercel.app](https://portfolio-puce-eight-96.vercel.app/)
 
