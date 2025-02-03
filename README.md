@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Bourdon</h1>
 <h3 align="center">I am a web and mobile web developer</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://portfolio-d41e219k5-brdlucas-projects.vercel.app/)
+- 🔭 I’m currently working on a website for miniamaker.
 
 - 🌱 I’m currently learning **reactjs**
 
