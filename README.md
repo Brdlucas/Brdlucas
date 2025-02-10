@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=00BCCE&center=true&vCenter=true&width=435&lines=Hello+There+!+%F0%9F%91%8B;My+name+is+Lucas+!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=62d9f7&center=true&vCenter=true&width=435&lines=Hello+There+!+%F0%9F%91%8B;My+name+is+Lucas+!" />
 </h1>
 
 <h3 align="center">A passionate software developer from France</h3>
