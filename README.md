@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a job boards**
+ 🔭 I’m currently working on **public quiz website**
  
- 🌱 I’m currently learning **Symfony**
+ 🌱 I’m currently learning **react native**
 
 💬 Ask me about *React, Symfony*
  </div>
